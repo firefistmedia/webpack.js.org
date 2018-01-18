@@ -34,7 +34,7 @@ When the server is started, there will be a message prior to the list of resolve
 
 ```bash
 http://localhost:9000/
-webpack output is served from /build/
+webpack output is served from /
 Content not from webpack is served from /path/to/dist/
 ```
 
